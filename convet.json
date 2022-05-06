@@ -1,0 +1,33 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "body": "la mot con vet thu 1",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "la mot con vet thu 2",
+      "postId": 2
+    },
+    {
+      "id": 3,
+      "body": "la mot con vet thu 3",
+      "postId": 3
+    },
+    {
+      "body": "Tôi đã thêm",
+      "postId": "15",
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    }
+  ]
+}
